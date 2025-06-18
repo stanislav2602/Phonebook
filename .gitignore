@@ -1,0 +1,15 @@
+.idea/
+*.iml
+*.ipr
+*.iws
+
+__pycache__/
+*.py[cod]
+*.venv
+venv/
+env/
+ENV/
+
+.DS_Store
+*.log
+*.sqlite3
